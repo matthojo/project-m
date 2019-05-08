@@ -1,0 +1,8 @@
+{
+  "name": "project-m",
+  "version": "1.0.0",
+  "description": "A localised global directory of mental health resources.",
+  "main": "index.js",
+  "repository": "git@github.com:matthojo/project-m.git",
+  "license": "MIT"
+}
